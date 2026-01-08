@@ -87,6 +87,8 @@ Implementation: A stress-test.yml configuration file is included in the project 
 
 [stress.yml](stress-test.yml)  
 
+[server.js](server.js) 
+
 ![Resim açıklaması](image/17.png)
 
 ### 4. Managing Different User Types (20%)
@@ -133,8 +135,10 @@ Functionality: Users can filter spatial data by categories (e.g., Museum, Park, 
 ## 🛠️ Technology Stack
 This project leverages modern web technologies to deliver a seamless Full Stack GIS experience:  
 
-Area,Technologies
-Frontend,"HTML5, CSS3, JavaScript, Leaflet.js"
-Backend,"Node.js, Express.js"
-Database,"PostgreSQL, PostGIS"
-DevOps & Tools,"AWS EC2, PM2, Swagger, Artillery, Git/GitHub"
+Frontend: "HTML5, CSS3, JavaScript, Leaflet.js"  
+
+Backend: "Node.js, Express.js"  
+
+Database: "PostgreSQL, PostGIS"  
+
+DevOps & Tools: "AWS EC2, PM2, Swagger, Artillery, Git/GitHub"
