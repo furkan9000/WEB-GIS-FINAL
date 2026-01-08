@@ -128,4 +128,13 @@ Functionality: Users can filter spatial data by categories (e.g., Museum, Park, 
 
 ![Resim açıklaması](image/5.png)  
 
-![Resim açıklaması](image/7.png)
+![Resim açıklaması](image/7.png)  
+
+## 🛠️ Technology Stack
+This project leverages modern web technologies to deliver a seamless Full Stack GIS experience:  
+
+Area,Technologies
+Frontend,"HTML5, CSS3, JavaScript, Leaflet.js"
+Backend,"Node.js, Express.js"
+Database,"PostgreSQL, PostGIS"
+DevOps & Tools,"AWS EC2, PM2, Swagger, Artillery, Git/GitHub"
