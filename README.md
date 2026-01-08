@@ -43,10 +43,10 @@ The map page has a panel at the top. You can use this panel to categorize and vi
 ![Resim açıklaması](image/10.png)  
 
 ---
-##✅ Implemented Course Requirements
+## ✅ Implemented Course Requirements
 This project successfully fulfills the technical requirements set for the Final Assignment. Below is a detailed breakdown of the implemented items:
 
-###1. Hosting on AWS (20%)
+### 1. Hosting on AWS (20%)
 The entire application infrastructure is deployed on the cloud to ensure accessibility and reliability.  
 
 Platform: AWS EC2 (Ubuntu Server).  
@@ -61,7 +61,7 @@ Live Access: The project is publicly available at http://16.16.253.167:3000.
 
 ![Resim açıklaması](image/13.png)  
 
-###2. API Development & Documentation (25%)
+### 2. API Development & Documentation (25%)
 A robust RESTful API manages the communication between the client (Leaflet Map) and the server.
 
 Technology: Node.js & Express.
@@ -76,14 +76,14 @@ Endpoints: Includes GET, POST, and DELETE methods for managing spatial data (Pla
 
 ![Resim açıklaması](image/16.png)
 
-###3. Performance Testing (25%)
+### 3. Performance Testing (25%)
 To ensure the system can handle multiple concurrent users, a performance/load test was implemented.
 
 Tool: Artillery load testing tool.
 
 Implementation: A stress-test.yml configuration file is included in the project root. This file simulates user traffic to measure response times and server stability under load.
 
-###4. Managing Different User Types (20%)
+### 4. Managing Different User Types (20%)
 The system implements a Role-Based Access Control (RBAC) architecture with 3 distinct roles, as shown in the Application Guide:
 
 Guest: View-only access to the map and markers.
@@ -92,7 +92,7 @@ Registered User: Can view the map, rate places, and add comments.
 
 Admin: Has full control, including adding new spatial features (Create), updating details, and deleting locations.
 
-###5. Authentication (15%)
+### 5. Authentication (15%)
 Security is a core component of the application.
 
 Mechanism: JWT (JSON Web Tokens) is used for secure session management.
@@ -101,7 +101,7 @@ Security: Passwords are encrypted using bcrypt before being stored in the databa
 
 Flow: Users can Sign Up and Log In via dedicated pages (login.html, register.html).
 
-###6. CRUD Operations (15%)
+### 6. CRUD Operations (15%)
 The project offers full CRUD (Create, Read, Update, Delete) capabilities on the geographical point layer.
 
 Spatial Database: Data is stored in PostgreSQL with the PostGIS extension to handle geolocation data efficiently.
