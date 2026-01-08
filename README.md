@@ -81,7 +81,11 @@ To ensure the system can handle multiple concurrent users, a performance/load te
 
 Tool: Artillery load testing tool.
 
-Implementation: A stress-test.yml configuration file is included in the project root. This file simulates user traffic to measure response times and server stability under load.
+Implementation: A stress-test.yml configuration file is included in the project root. This file simulates user traffic to measure response times and server stability under load.  
+
+[stress.yml](stress.yml)  
+
+![Resim açıklaması](image/17.png)
 
 ### 4. Managing Different User Types (20%)
 The system implements a Role-Based Access Control (RBAC) architecture with 3 distinct roles, as shown in the Application Guide:
@@ -90,7 +94,9 @@ Guest: View-only access to the map and markers.
 
 Registered User: Can view the map, rate places, and add comments.
 
-Admin: Has full control, including adding new spatial features (Create), updating details, and deleting locations.
+Admin and Moderator: Has full control, including adding new spatial features (Create), updating details, and deleting locations.  
+
+![Resim açıklaması](image/18.png)
 
 ### 5. Authentication (15%)
 Security is a core component of the application.
@@ -99,13 +105,25 @@ Mechanism: JWT (JSON Web Tokens) is used for secure session management.
 
 Security: Passwords are encrypted using bcrypt before being stored in the database.
 
-Flow: Users can Sign Up and Log In via dedicated pages (login.html, register.html).
+Flow: Users can Sign Up and Log In via dedicated pages (login.html, register.html).  
+
+![Resim açıklaması](image/19.png)  
+
+![Resim açıklaması](image/2.png)  
+
+![Resim açıklaması](image/3.png)  
 
 ### 6. CRUD Operations (15%)
 The project offers full CRUD (Create, Read, Update, Delete) capabilities on the geographical point layer.
 
 Spatial Database: Data is stored in PostgreSQL with the PostGIS extension to handle geolocation data efficiently.
 
-Functionality: Users can filter spatial data by categories (e.g., Museum, Park, Historical) using the top panel shown in the screenshots.
+Functionality: Users can filter spatial data by categories (e.g., Museum, Park, Historical) using the top panel shown in the screenshots.  
 
+![Resim açıklaması](image/20.png)  
 
+![Resim açıklaması](image/21.png)  
+
+![Resim açıklaması](image/5.png)  
+
+![Resim açıklaması](image/7.png)
