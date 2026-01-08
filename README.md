@@ -26,11 +26,11 @@ If you log in as an admin or moderator, adding and editing locations becomes act
 
 ![Resim açıklaması](image/5.png)  
 
-![Resim açıklaması](image/6.png)
+![Resim açıklaması](image/7.png)
 
 If you log in as a user, commenting, rating, and editing on the location review panel becomes active.
 
-![Resim açıklaması](image/7.png)  
+![Resim açıklaması](image/6.png)  
 
 Alternatively, you can view locations and draw routes as a guest without logging in, but you cannot express your opinions about the location; you can only read the comments.
 
