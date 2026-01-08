@@ -87,7 +87,7 @@ Implementation: A stress-test.yml configuration file is included in the project 
 
 [stress.yml](stress-test.yml)  
 
-[server.js](server.js) 
+[report.js](report.js) 
 
 ![Resim açıklaması](image/17.png)
 
