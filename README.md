@@ -32,7 +32,9 @@ If you log in as a user, commenting, rating, and editing on the location review 
 
 ![Resim açıklaması](image/6.png)  
 
-Alternatively, you can view locations and draw routes as a guest without logging in, but you cannot express your opinions about the location; you can only read the comments.
+Alternatively, you can view locations and draw routes as a guest without logging in, but you cannot express your opinions about the location; you can only read the comments.  
+
+**Note:** This application creates all kinds of routes on the local computer, but it cannot create routes on the given link connected to the server. This is because, since the application does not have a domain, the internet does not see "https" as secure and does not allow it to use the location.
 
 ![Resim açıklaması](image/8.png) 
 
