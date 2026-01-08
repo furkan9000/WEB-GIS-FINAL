@@ -36,13 +36,15 @@ Alternatively, you can view locations and draw routes as a guest without logging
 
 ![Resim açıklaması](image/8.png) 
 
-The map page has a panel at the top. You can use this panel to categorize and view locations.
-
 ![Resim açıklaması](image/9.png)  
+
+The map page has a panel at the top. You can use this panel to categorize and view locations.
 
 ![Resim açıklaması](image/10.png)  
 
 ![Resim açıklaması](image/11.png)  
+
+![Resim açıklaması](image/12.png)  
 
 ![Resim açıklaması](image/resim.png)  
 
