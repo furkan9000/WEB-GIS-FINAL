@@ -85,7 +85,7 @@ Tool: Artillery load testing tool.
 
 Implementation: A stress-test.yml configuration file is included in the project root. This file simulates user traffic to measure response times and server stability under load.  
 
-[stress.yml](stress.yml)  
+[stress.yml](stress-test.yml)  
 
 ![Resim açıklaması](image/17.png)
 
