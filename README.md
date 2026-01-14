@@ -55,7 +55,7 @@ Platform: AWS EC2 (Ubuntu Server).
 
 Process Management: The application runs continuously in the background using PM2, ensuring zero downtime even if the console is closed.
 
-Live Access: The project is publicly available at http://16.16.253.167:3000.  
+Live Access: The project is publicly available at .....  
 
 ![Resim açıklaması](image/11.png)  
 
