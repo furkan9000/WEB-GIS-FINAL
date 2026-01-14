@@ -4,7 +4,7 @@
   The **Ankara GIS** application presents Ankara's historical streets, hidden parks, natural beauties, and cultural heritage alongside its grey landscape through an interactive map. This README.md explains the infrastructure used to build the application and what it meets in the **Final Assignment: Full Stack Web GIS** course. First, the AnkaraGIS application will be described, and a link to the AWS server will be shared. Second, what it meets in Full Stack Web GIS will be explained with supporting images.
 
 ---
-Copy the AWS server link and open it in your browser: http://16.16.253.167:3000 
+Copy the AWS server link and open it in your browser: Please contact us for the link.
 ---
 **Note:** Server continuity is ensured by the **PM2** process manager running in the background.  
 
